@@ -10,9 +10,10 @@ public class Main {
         int n = in.nextInt(); 
 
         // Compute and print the square of n
-
+        System.out.println(n * n);
         // Compute and print the cube of n
-
+        System.out.println(n * n * n);
         // Compute and print the fourth power of n
+        System.out.println(n * n * n * n);
     }
 }
