@@ -10,7 +10,12 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/29748#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 04 Feb 2025 07:24:53 UTC"
 record: -1
+selected_options:
+  - 2
 custom_name: Java Arithmetic Operations Magic!
 local_check: false
