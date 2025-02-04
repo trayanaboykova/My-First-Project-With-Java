@@ -1,13 +1,23 @@
 package calculator;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        int bubblegum = 2;
-        double toffee = 0.2;
-        int iceCream = 5;
-        int milkChocolate = 4;
-        double doughnut = 2.5;
-        double pancake = 3.2;
+        Scanner sc = new Scanner(System.in);
+//        String question = "What's your name?";
+//        System.out.println(question);
+//        String answer = sc.nextLine();
+//        String greeting = "Hello, " + answer + "!";
+//        System.out.println(greeting);
+//        System.out.println();
+
+//        int bubblegum = 2;
+//        double toffee = 0.2;
+//        int iceCream = 5;
+//        int milkChocolate = 4;
+//        double doughnut = 2.5;
+//        double pancake = 3.2;
 
 //        System.out.println("Prices:");
 //        System.out.println("Bubblegum: $" + bubblegum);
@@ -27,6 +37,8 @@ public class Main {
         // Calculate total income
         int totalIncome = bubblegumTotal + toffeeTotal + iceCreamTotal + milkChocolateTotal + doughnutTotal + pancakeTotal;
 
+
+
         // Print the earned amounts
         System.out.println("Earned amount:");
         System.out.println("Bubblegum: $" + bubblegumTotal);
@@ -35,9 +47,16 @@ public class Main {
         System.out.println("Milk chocolate: $" + milkChocolateTotal);
         System.out.println("Doughnut: $" + doughnutTotal);
         System.out.println("Pancake: $" + pancakeTotal);
+        System.out.println();
 
         // Print the total income
         System.out.println("Income: $" + totalIncome);
+        System.out.println("Staff expenses:");
+        int staffExpenses = sc.nextInt();
+        System.out.println("Other expenses:");
+        int otherExpenses = sc.nextInt();
+        int netIncome = totalIncome - (staffExpenses + otherExpenses);
+        System.out.println("Net income: $" + netIncome);
 
     }
 }

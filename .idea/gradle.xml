@@ -21,6 +21,18 @@
             <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Java Arithmetic Operations Magic" />
             <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Slice and dice your price tag" />
             <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Adding and subtracting characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Find the next Unicode character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Special characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Subtraction mystery" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Display an Integer" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Find the correct Statement" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Format-Specifiers" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Integer Formatting" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
@@ -33,6 +45,11 @@
             <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Name That! A Peek into Best Naming Picks" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
